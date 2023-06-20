@@ -1,8 +1,8 @@
 def main():
 
     ##############################
-    # make your code below
-    # print('Hello World')
+   print("hello world")
+   print("CS 7: Python Programming")
     ##############################
 
 
